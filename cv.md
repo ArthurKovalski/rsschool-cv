@@ -31,6 +31,26 @@ I tried to do many things in my life and sometimes I won and sometimes I lose bu
   }else {
     return false
   }
-};
+  };
 ~~~
+
+## Education
+   
+
+   - YouTube
+   - freeCodeCamp (Responsive Web Design)
+
+
+## Work Experiens   
+  
+  This time I don't have work 
+
+
+## Languages
+
+   -Russian
+   -English (intermedia)
+
+   
+ 
 
