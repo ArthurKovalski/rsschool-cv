@@ -25,7 +25,8 @@ I tried to do many things in my life and sometimes I won and sometimes I lose bu
 ## Code Example
 
 
-~~~function isDivideBy(number, a, b) {
+~~~javascript
+function isDivideBy(number, a, b) {
   if(number % a == 0 && number % b == 0){
     return true
   }else {
