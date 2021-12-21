@@ -49,9 +49,9 @@ function isDivideBy(number, a, b) {
 
 ## Languages
 
-   -Russian
-   -English (intermedia)
-
+   - Russian
+   - English (intermedia)
+    
    
  
 
