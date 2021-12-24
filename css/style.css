@@ -83,20 +83,30 @@ padding: 0 60px;
 }
 
 .descr__content-contacts{
-    
+
 } 
 
-.descr li{
-    margin-bottom: 30px;
+
+.contact__info{
+    display: flex;  
+    margin-bottom: 20px;  
 }
+
+.contact__info img{
+    margin-left: 96px;
+    margin-top: -10px;
+}
+
+
 
 .descr a{
     color: #EAE4D1;
 font-size: 24px;
 line-height: 38px;
 letter-spacing: 0.2em;
-margin-left: 150px;
 margin-right: 111px;
+margin-left: 20px;
+
 }
 
 
